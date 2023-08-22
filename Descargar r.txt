@@ -5,3 +5,5 @@ Como instalar R
 
 2-Descarga el repositorio:
 https://posit.co/download/rstudio-desktop/
+
+Gracias por leer
